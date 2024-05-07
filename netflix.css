@@ -1,0 +1,85 @@
+body{
+    color: white;
+    
+    text-align: center;
+    font-size: x-large;
+
+}
+#new{
+    text-align: justify;
+    width:94.5%;
+}
+.item{
+    mix-blend-mode: normal;
+    
+}
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+  }
+  
+
+#sign{
+    background-color: red
+    color(white);
+    font-weight: bold;
+    text-align: center;
+}
+
+#started{
+     background-color: red
+     color(white);
+    font-weight: bold;
+    text-align: center;
+}
+nav{
+    float:left;
+    padding: 20px;
+}
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+#first{
+    page-break-after: auto;
+    width:100%;
+    background-image: url("bac\ image.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0 0 0 0
+
+}
+div{
+    width:100%;
+    border-style: ridge;
+    border-color: grey;
+    box-sizing: border-box;
+    background-image: url("black.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10% 10% 3% 5%;
+    
+}
+
+.full{
+    height: 100vh;
+     width: 100vw;
+}
+.last{
+    background-image: url("black.jpg");
+    font-size: large;
+    text-align: left;
+}
+a{
+    color: white;
+}
+table{
+    width:100%
+}
